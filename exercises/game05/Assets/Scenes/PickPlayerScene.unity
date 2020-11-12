@@ -284,21 +284,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5384a5bae437b40b6b7fec02cd385135, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blackpenguin: {fileID: 0}
-  pinkpenguin: {fileID: 0}
-  bluepenguin: {fileID: 0}
-  yellowpenguin: {fileID: 0}
-  purplepenguin: {fileID: 0}
-  greenpenguin: {fileID: 0}
-  Characterint: 1
-  blackRenderer: {fileID: 0}
-  blueRenderer: {fileID: 0}
-  pinkRenderer: {fileID: 0}
-  yellowRenderer: {fileID: 0}
-  greenRenderer: {fileID: 0}
-  purpleRenderer: {fileID: 0}
-  Characterposition: {x: 0, y: 0, z: 0}
-  OffScreen: {x: 0, y: 0, z: 0}
 --- !u!4 &506179902
 Transform:
   m_ObjectHideFlags: 0
@@ -1432,8 +1417,8 @@ Camera:
   m_GameObject: {fileID: 2033146179}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.94941944, g: 0.7471075, b: 0.9716981, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
