@@ -24,4 +24,5 @@ public class SceneMoveManager : MonoBehaviour
     {
         SceneManager.LoadScene("PickPlayerScene");
     }
+
 }
