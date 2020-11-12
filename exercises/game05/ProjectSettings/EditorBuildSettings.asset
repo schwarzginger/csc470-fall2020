@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 7bd340aa6f21e43bebf9d4d7ae4751e4
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: dca94d68231b1466987dabbc68195250
+  - enabled: 1
+    path: Assets/Scenes/InstructionsScene.unity
+    guid: b628f7c17147b4c4a8e545f37d58bf4a
+  - enabled: 1
+    path: Assets/Scenes/PickPlayerScene.unity
+    guid: 26e319c88dc594f31bfc990f205834b0
+  - enabled: 1
+    path: Assets/Scenes/DojoScene.unity
+    guid: 54ba13fbc8a0c406fa11dd68f85a4235
   m_configObjects: {}
