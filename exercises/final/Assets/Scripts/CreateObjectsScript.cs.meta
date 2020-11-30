@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e04a2d6b9b794c73bbb960749f15f90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - elmPrefab: {fileID: 1453439730216001555, guid: 708a5be5361634e39a11847ea12948e4, type: 3}
+  - bushPrefab: {fileID: 3590474910811582911, guid: 1e4c6fd245319476c9825a2195cd16ba, type: 3}
+  - pinePrefab: {fileID: 6333919531382241911, guid: a6ac2bf3a494c4b3ea95a778fb8ebac8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
