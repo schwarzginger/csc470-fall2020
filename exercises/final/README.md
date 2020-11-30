@@ -1,0 +1,24 @@
+# ***CSC 470 FINAL PROJECT PROPOSAL***
+---------------------------------------
+## Plan for the Game: 
+- Gameplay Description:
+  - The player, after allowing the user to choose their specific character, will enter into an interactive storytelling platform. The player will have to follow specific instructions in order to move forward with the game. There will be certain "keys" wherein once the player collects a key, it will unlock another level. 
+  - These new levels will contain other keys and tasks for the player to complete. Each new key that is collected will contain a certain message. I think I want there to be a secret message that the user has to figure out and in order to unlock the "treasure chest" and end the game the user will input this secret message and if its wrong, player loses and they return back to the start. 
+  - The user will use arrow keys to move and interact within the platform. 
+- I would like to have a player selection scene at the beginning of the game where the user will select their character and the character will remain throughout the scenes. 
+- I would also like to have a key collection score that remains and moves to every scene and continues to be updated.  
+- The main component of my game will be the storytelling part that directs the player with certain instructions throughout the game. These instructions will appear through a panel and the user will be able to move through the instructions using a key input or a button. These panels will help progress the user through the storyline and the game itself. 
+- I would also like to have music play throughout the background of the game. Additionally, depending on the scene that gets unlocked with the "key" the music may change to make the theme be more eerie or cheery. 
+#### Theme:
+- I think a fun and cool theme for this game is to be some sort of fairytale storybook adventure. I am hoping to have an enchanted forest with different creatures that the player must avoid. I also want there to be a specific level with a castle and dragon and the player must solve a riddle or puzzle to put the dragon to sleep. 
+- I am hoping to incorporate some cool music, animation, and fonts to make the theme come to life. 
+- The overall structure of the game will be as follows:
+  - The user will be prompted to choose a character. That character will enter the enchanted forest and be prompted with the story and instructions to the game. The player will move through key inputs. The object in the enchanted forest will be to ask a specific person for instructions. Those instructions will lead you to the "key". Once you collect the key part of the "secret message" will appear and the player moves to the next scene. The "key score" will increase. 
+  - The following scenes will follow a similar structure, however they may change in order to incorporate other concepts that we have learned in class. The final scene will contain a treasure chest where the user is prompted to enter the secret message in order to win the game. If the message is incorrect, the player will move back to the enchanted forest and start over.  
+#### Targets: 
+- Low Bar: There is still a player selection scene. The enchanted forest has the panels for storytelling and instructions. There is key collection. There maybe aren't other players you could interact with. Key score will update through the scenes. Primary goal is just to collect the keys and move on.
+- Expected Target: Start with player selection scene. Move into enchanted forest. Have a certain list of tasks in the instructions that include "talking" to other creatures or characters. After those interactions the players give you hints to find the key. Once you find the key celebratory music plays. User can see part of a secret message. That secret message also moves with the player into the other scenes. I want to have one scene where the player is being chased and they have to escape by finding the "portal". May only be three levels or so. At the last scene there is a treasure chest where user has to input the secret message they found from the keys and if its correct then they win. If it is incorrect then they are sent back to the enchanted forest. 
+- High Bar: I would have everything thats included in the expected target but maybe also have a health bar where if they collect a "fake key" their health decreases. I also maybe want to add creature descriptions so when the player interacts with them, they can see their info. Additionally, if the player is "caught" in the scene where they are being chased then their health also decreases. If their health gets to zero, the player dies and they start over. 
+#### Timeline: 
+- I don't typically have class on Wednesday's so I plan to use that time to do most of my design and programming for my game. 
+- I also will try to set aside time on the upcoming weekends to spend for working on my game. 
