@@ -8,3 +8,11 @@ Gameplay Description:
 - Once you enter the passage way, you are brought to the Dragon's castle which is protected by deadly fire balls and evil wizards. You must weave your way through the fire balls and avoid the evil wizard otherwise you health is going to decline. The goal of this level is to reach the treasure chest before your health reaches zero!
 - Once you reach the chest, you have to input the secret message that you decoded. If you do it correctly, you have to solve one last puzzle before you can exit the game. 
 - Most features in my game were focused on UI in order to tell the storyline. 
+
+Here are some images: 
+
+![SelectionImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Selection.png)
+
+![PuzzleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Puzzle2.png)
+
+![CastleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Castle.png)
