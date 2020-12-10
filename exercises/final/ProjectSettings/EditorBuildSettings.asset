@@ -6,18 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SelectionScene.unity
-    guid: 808106aa3f97746bebf3d41f6dd6d37c
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: fb19a52216cfe49308cf1ef23332db2d
+    path: Assets/Scenes/TitleScene.unity
+    guid: 58003b86aebb648e698b6b154c13033f
   - enabled: 1
     path: Assets/Scenes/InstructionsScene.unity
     guid: b2592683704d94b59ac086a6b6243cbf
   - enabled: 1
-    path: Assets/Scenes/TitleScene.unity
-    guid: 58003b86aebb648e698b6b154c13033f
+    path: Assets/Scenes/SelectionScene.unity
+    guid: 808106aa3f97746bebf3d41f6dd6d37c
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: fb19a52216cfe49308cf1ef23332db2d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/CastleScene.unity
+    guid: b8702f0b915fd47fb990bd6a447838f9
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: ed18fbf19fd5046f1a239a3b72acd174
+  - enabled: 1
+    path: Assets/Scenes/PasswordScene.unity
+    guid: 24450356bfd0b4f9292a4a273d96a3e6
+  - enabled: 1
+    path: Assets/Scenes/PuzzleScene.unity
+    guid: 60ae681629dfd446f876961beab070b4
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 0b122ece3d73c489786e1715f76bd9ca
   m_configObjects: {}
