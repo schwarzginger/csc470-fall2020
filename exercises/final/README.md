@@ -11,10 +11,19 @@ Gameplay Description:
 
 Here are some images: 
 
-![SelectionImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Selection.png)
+![](https://github.com/schwarzginger/csc470-fall2020/blob/master/exercises/final/Selection.png)
 
-![PuzzleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Puzzle2.png)
+Here you can see the Selection screen where you get to choose your player. 
 
-![CastleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Castle.png)
+![](https://github.com/schwarzginger/csc470-fall2020/blob/master/exercises/final/Puzzle2.png)
 
-![ForestImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Forest.png)
+Here is an image of the final puzzle that you have to play in order to win. 
+
+![](https://github.com/schwarzginger/csc470-fall2020/blob/master/exercises/final/Castle.png)
+
+Here is an image of the Dragon's Castle where you must avoid fire balls and the evil wizards. 
+
+![](https://github.com/schwarzginger/csc470-fall2020/blob/master/exercises/final/Forest.png)
+
+Here is an image of the Enchanted Forest where you complete most of the tasks. 
+
