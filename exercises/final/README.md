@@ -16,3 +16,5 @@ Here are some images:
 ![PuzzleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Puzzle2.png)
 
 ![CastleImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Castle.png)
+
+![ForestImage](https://github.com/schwarzginger/csc470-fall2020/tree/master/exercises/final/Forest.png)
